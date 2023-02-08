@@ -1,0 +1,9 @@
+
+
+java.io.IOException: Operation not permitted
+	at java.io.UnixFileSystem.createFileExclusively0(Native Method)
+	at java.io.UnixFileSystem.createFileExclusively(UnixFileSystem.java:317)
+	at java.io.File.createNewFile(File.java:1006)
+	at ohi.andre.consolelauncher.b.M.run(Unknown Source:37)
+
+----------------------------
